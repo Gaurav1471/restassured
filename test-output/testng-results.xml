@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T02:05:15 IST" name="Default suite" finished-at="2022-05-28T02:05:19 IST" duration-ms="3580">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T02:05:15 IST" name="Default test" finished-at="2022-05-28T02:05:19 IST" duration-ms="3580">
+      <class name="MyPackage.RestAssuredTest">
+        <test-method is-config="true" signature="setBaseURI()[pri:0, instance:MyPackage.RestAssuredTest@48ae9b55]" started-at="2022-05-28T02:05:15 IST" name="setBaseURI" finished-at="2022-05-28T02:05:15 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseURI -->
+        <test-method signature="getRequest()[pri:1, instance:MyPackage.RestAssuredTest@48ae9b55]" started-at="2022-05-28T02:05:15 IST" name="getRequest" finished-at="2022-05-28T02:05:17 IST" duration-ms="1253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest -->
+        <test-method signature="postRequest()[pri:2, instance:MyPackage.RestAssuredTest@48ae9b55]" started-at="2022-05-28T02:05:17 IST" name="postRequest" finished-at="2022-05-28T02:05:17 IST" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+        <test-method signature="putRequest()[pri:3, instance:MyPackage.RestAssuredTest@48ae9b55]" started-at="2022-05-28T02:05:17 IST" name="putRequest" finished-at="2022-05-28T02:05:18 IST" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRequest -->
+        <test-method signature="deleteRequest()[pri:4, instance:MyPackage.RestAssuredTest@48ae9b55]" started-at="2022-05-28T02:05:18 IST" name="deleteRequest" finished-at="2022-05-28T02:05:19 IST" duration-ms="681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+      </class> <!-- MyPackage.RestAssuredTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
